@@ -1,8 +1,0 @@
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\bin\Debug\cosole_api.exe.config
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\bin\Debug\cosole_api.exe
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\bin\Debug\cosole_api.pdb
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\obj\Debug\cosole_api.csproj.AssemblyReference.cache
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\obj\Debug\cosole_api.csproj.SuggestedBindingRedirects.cache
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\obj\Debug\cosole_api.csproj.CoreCompileInputs.cache
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\obj\Debug\cosole_api.exe
-C:\Users\lenovo\source\repos\cosole_api\cosole_api\obj\Debug\cosole_api.pdb
